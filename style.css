@@ -1,0 +1,16 @@
+body {
+    background: lightsalmon;
+
+}
+h1 {
+    color: lightgoldenrodyellow;
+    background-color: rgba(65, 65, 65, 0.104);
+    font-size: 70px;
+    font-family: "Verdana", "Times New Roman", sans-serif;
+    text-align: center;
+}
+div {
+    text-align: left;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
